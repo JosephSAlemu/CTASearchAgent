@@ -2,7 +2,7 @@
 - Modifying the AIMA libraries files and Joseph Phillips parser to customize my search agent for my specific needs
 - Credit to AIMA for their Java library
   > https://github.com/aimacode/aima-java
-- Credit to Joseph Phillips for his files, too
+- Credit to Joseph Phillips for the parser and streaming files
 
 # What To Install
 - Eclipse
