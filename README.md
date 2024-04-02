@@ -1,11 +1,16 @@
 # CTASearchAgent
-- Modifying the AIMA core libraries Iterative deepening depth-first search to customize my search agent and reduce recursive calls for finding a path on the CTA
+- Modifying the AIMA libraries files and Joseph Phillips parser to customize my search agent for my specific needs
 - Credit to AIMA for their IDDFS search files
   > https://github.com/aimacode/aima-java
-- Credit to Joseph Phillips for the GraphParser, the Stream files, the Symbol file, and Path and Length file
+- Credit to Joseph Phillips for his files, too
 
-# How To Use
+# What To Install
 - Eclipse
 - JDK 17
 
-You can either download the files and import into eclipse or git clone the repo in eclipse
+# How to use
+- In Eclipse, git clone this repository.
+- You can either run the optimized IDDFS search or the unoptimized IDDFS search
+- Use the provided text file paths for the searches
+- The names of stops are in the ctaTrain.txt file (the nodes)
+
