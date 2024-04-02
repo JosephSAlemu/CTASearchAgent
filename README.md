@@ -1,8 +1,12 @@
 # CTASearchAgent
-- Modifying the AIMA libraries files and Joseph Phillips parser to customize my search agent for my specific needs
+- Modifying the AIMA libraries files and Joseph Phillips parser to map the CTA and customize my search agent for my specific needs
+- How it works:
+  - The unoptimized search performs a single IDDFS to find a path between two stops, making it inefficient in memory usage.
+  - The optimized search performs multiple IDDFS for every supernode between two stops, making it efficient in memory usage.
+  
 - Credit to AIMA for their Java library
   > https://github.com/aimacode/aima-java
-- Credit to Joseph Phillips for the parser and streaming files
+- Credit to Joseph Phillips for the graph parser and streaming files
 
 # What To Install
 - Eclipse
